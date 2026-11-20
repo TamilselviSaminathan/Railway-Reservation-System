@@ -122,7 +122,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
-<img width="1092" height="610" alt="image" src="https://github.com/user-attachments/assets/93eb092a-b574-4fa7-a83c-0365a574a3cb" />
+<img width="1919" height="1072" alt="639896303-0a4cb002-31ec-4d19-8422-611412bd9071" src="https://github.com/user-attachments/assets/d6f89cd6-ab64-46cc-9c16-c8d5c78d56b6" />
 
 
 # RESULT
